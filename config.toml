@@ -1,0 +1,112 @@
+baseurl = "https://asukakusunoki.com/"
+DefaultContentLanguage = "en"
+title = "Asuka Kusunoki"
+theme = "beautifulhugo"
+hasCJKLanguage = true
+summaryLength = 190
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+disqusShortname = "makotokusunoki-com"
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+
+#googleAnalytics = "XXX"
+
+[Params]
+#  homeTitle = "Asuka Kusunoki"
+  subtitle = "Works and notes"
+  mainSections = ["post","posts"]
+  logo = "img/icon.png" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+  twitter_cards = true
+#  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    ordered = false
+    endLevel = 4
+   
+
+[Author]
+  name = "Asuka Kusunoki"
+  twitter = "kusunokiask"
+  instagram = "makoto_kusunoki"
+  facebook = "kusunokiask"
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "Profile"
+    url = "page/profile/"
+    weight = 2
+
+[[menu.main]]
+    identifier = "gallery"
+    name = "Gallery"
+    weight = 3
+
+[[menu.main]]
+    parent = "gallery"
+    name = "Paintings"
+    url = "page/paintings/"
+    weight = 1
+
+[[menu.main]]
+    parent = "gallery"
+    name = "Portraits"
+    url = "page/portraits/"
+    weight = 2
+
+[[menu.main]]
+    parent = "gallery"
+    name = "Still lifes"
+    url = "page/still-life/"
+    weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 4
+
+[[menu.main]]
+    name = "Shop"
+    url = "page/shop/"
+    weight = 5
+
+[[menu.main]]
+    name = "Contact"
+    url = "page/contact/"
+    weight = 6

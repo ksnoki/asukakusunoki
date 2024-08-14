@@ -1,6 +1,6 @@
 ---
-title: Shop
-subtitle: 
+title: Order
+subtitle: 絵画のオーダー
 comments: false
 ---
 {{< gallery caption-effect="fade" >}}

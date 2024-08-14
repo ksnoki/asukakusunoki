@@ -102,8 +102,8 @@ unsafe= true
     weight = 4
 
 [[menu.main]]
-    name = "Shop"
-    url = "page/shop/"
+    name = "Order"
+    url = "page/order/"
     weight = 5
 
 [[menu.main]]

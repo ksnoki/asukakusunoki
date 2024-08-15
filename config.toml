@@ -103,7 +103,7 @@ unsafe= true
 
 [[menu.main]]
     name = "Order"
-    url = "order"
+    url = "page/order/"
     weight = 5
 
 [[menu.main]]

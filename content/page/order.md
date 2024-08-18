@@ -1,6 +1,6 @@
 ---
 title: Order
-subtitle: 絵画のオーダー
+subtitle: 絵画のオーダーメイド
 comments: false
 ---
 {{< gallery caption-effect="fade" >}}
@@ -19,7 +19,7 @@ I am currently accepting commissions for paintings.
 If you have photographs of pets, people, landscapes, or anything else you would like to have painted, I can use them as eferences. If not, I will ask you for your preferred subject matter and paint from that.  
 If you would like to purchase or commission my paintings, the approximate prices are as follows.  
 
-| Size | Price |
+| Size | Price※ |
 | ---- | ---- |
 | はがきサイズ（10.0×14.8cm） | ￥40,000 |
 | 0号（13.9×17.9cm） | ￥50,000 |
@@ -27,3 +27,5 @@ If you would like to purchase or commission my paintings, the approximate prices
 | 3号（22.0×27.3cm） | ￥70,000 |
 | 4号（22.0×33.3cm） | ￥80,000 |
 | 6号（31.8×40.9cm） | ￥100,000 |
+
+※送料・税・額別

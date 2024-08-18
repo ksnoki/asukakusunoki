@@ -8,5 +8,5 @@ comments: false
 If you would like to purchase or commission my paintings, or if you have any inquiries, please click the button below and fill out the contact form. 
 
 <div class="contactButton">
- <a href="https://docs.google.com/forms/d/e/1FAIpQLSf2_qi1jRuZKzOkvCyOuforcKeTtu8HzojWeeFUwTAJD2xUVQ/viewform?usp=sf_link" target="_blank">CONTACT→</a>
+ <a href="https://docs.google.com/forms/d/e/1FAIpQLSdBlbKexYIZBcmDKvz8GNrDX9Z4iAd_Bwm-84APGqZ2eK2yoA/viewform?usp=sf_link" target="_blank">CONTACT→</a>
 </div>

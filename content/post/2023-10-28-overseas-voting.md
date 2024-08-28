@@ -7,7 +7,7 @@ toc: true
 categories: [""]
 tags: ["留学","留学準備"]
 image: /img/manhattan_20211023.jpg
-eyecatch: https://makotokusunoki.com/img/manhattan_20211023.jpg
+eyecatch: https://asukakusunoki.com/img/manhattan_20211023.jpg
 bigimg: [{src: "/img/manhattan_20211023.jpg"}]
 comment: true
 ---

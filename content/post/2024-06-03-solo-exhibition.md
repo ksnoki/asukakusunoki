@@ -7,7 +7,7 @@ toc: false
 categories: [""]
 tags: ["個展", "展示", "アトリエ", "留学"]
 image: /img/garden_202406_13.jpg
-eyecatch: https://makotokusunoki.com/img/garden_202406_13.jpg
+eyecatch: https://asukakusunoki.com/img/garden_202406_13.jpg
 bigimg: [{src: "/img/garden_202406_13.jpg"}]
 comment: true
 ---

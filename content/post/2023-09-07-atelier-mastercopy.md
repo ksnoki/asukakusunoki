@@ -7,7 +7,7 @@ toc: true
 categories: [""]
 tags: ["アトリエ","留学"]
 image: /img/mastercopy_20230217_01.jpg
-eyecatch: https://makotokusunoki.com/img/mastercopy_20230217_01.jpg
+eyecatch: https://asukakusunoki.com/img/mastercopy_20230217_01.jpg
 bigimg: [{src: "/img/mastercopy_20230217_01.jpg"}]
 comment: true
 ---

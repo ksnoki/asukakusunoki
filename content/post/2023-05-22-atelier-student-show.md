@@ -7,7 +7,7 @@ toc: false
 categories: [""]
 tags: ["グループ展", "展示", "アトリエ", "留学"]
 image: /img/studentshow_2023_05.jpg
-eyecatch: https://makotokusunoki.com/img/studentshow_2023_05.jpg
+eyecatch: https://asukakusunoki.com/img/studentshow_2023_05.jpg
 bigimg: [{src: "/img/studentshow_2023_05.jpg"}]
 comment: true
 ---

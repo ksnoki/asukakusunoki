@@ -7,7 +7,7 @@ toc: true
 categories: [""]
 tags: ["アトリエ","留学"]
 image: /img/castpainting_2022_12_07.jpg
-eyecatch: https://makotokusunoki.com/img/castpainting_2022_12_07.jpg
+eyecatch: https://asukakusunoki.com/img/castpainting_2022_12_07.jpg
 bigimg: [{src: "/img/castpainting_2022_12_07.jpg"}]
 comment: true
 ---
@@ -15,7 +15,7 @@ comment: true
 アトリエの2年目（Painting Year）では「キャストペインティング（石膏像ペインティング）」に取り組みます。   
 1年目（Drawing Year）の授業では鉛筆で紙に石膏像を描きました。  
 
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://makotokusunoki.com/post/2022-12-10-atelier/" data-iframely-url="//iframely.net/RrgCt9L"></a></div></div><script async src="//iframely.net/embed.js"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://asukakusunoki.com/post/2022-12-10-atelier/" data-iframely-url="//iframely.net/t5w56oX"></a></div></div><script async src="//iframely.net/embed.js"></script>
 
 2年目のキャストペインティングの授業ではセッティングした石膏像を油絵の具を用いてキャンバスに描きます。今回は2022年の秋～冬の授業で石膏像を描いたときの制作過程を写真と一緒にまとめてみました。  
 

@@ -7,14 +7,14 @@ toc: true
 categories: [""]
 tags: ["留学","留学準備"]
 image: /img/preparation_headphones.jpg
-eyecatch: https://makotokusunoki.com/img/preparation_headphones.jpg
+eyecatch: https://asukakusunoki.com/img/preparation_headphones.jpg
 bigimg: [{src: "/img/preparation_headphones.jpg"}]
 comment: true
 ---
 
 前回の「アメリカ留学準備〈手続き編〉」では、アメリカに留学する際に自分が行った手続きをまとめました。今回の文章では、留学に必要なものや持って行ってよかったものについて書いていきます。
 
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://makotokusunoki.com/post/2023-07-15-preparation/" data-iframely-url="//iframely.net/cqF5PdJ"></a></div></div><script async src="//iframely.net/embed.js"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://asukakusunoki.com/post/2023-07-15-preparation/" data-iframely-url="//iframely.net/bEgXmeg"></a></div></div><script async src="//iframely.net/embed.js"></script>
 
 {{< toc >}}
 

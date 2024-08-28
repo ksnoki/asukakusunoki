@@ -1,5 +1,5 @@
 ---
-title: Makoto Kusunoki Solo Exhibition "Garden"
+title: Solo Exhibition "Garden"
 subtitle: 
 date: 2024-05-23
 draft: false
@@ -7,7 +7,7 @@ toc: false
 categories: [""]
 tags: ["個展", "展示", "アトリエ", "留学"]
 image: /img/240601_makotokusunoki_garden.png
-eyecatch: https://makotokusunoki.com/img/240601_makotokusunoki_garden.png
+eyecatch: https://asukakusunoki.com/img/240601_makotokusunoki_garden.png
 bigimg: [{src: "/img/240601_makotokusunoki_garden.png"}]
 comment: true
 ---
@@ -20,7 +20,7 @@ I am having a solo exhibition in Brooklyn this June. That's only for two days(Ju
 
 --  
 
-Makoto Kusunoki Solo Exhibition "Garden"  
+Solo Exhibition "Garden"  
 
 【Date and time】  
 2024.6.1 - 6.2  

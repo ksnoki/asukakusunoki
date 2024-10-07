@@ -17,7 +17,7 @@ I am currently accepting commissions for paintings.
 If you have photographs of pets, people, landscapes, or anything else you would like to have painted, I can use them as eferences. If not, I will ask you for your preferred subject matter and paint from that.  
 If you would like to commission a painting, approximate prices are in the table below.  
 {{< gallery caption-effect="fade" >}}
-  {{< figure thumb="-thumb" src="/img/2024_portrait_commissioned.jpg" caption="肖像画（受注制作）" alt="肖像画（受注制作） / Commissioned portrait / 2024 / oil on canvas / F3号（27.3×22.0cm）" >}}
+  {{< figure thumb="-thumb" src="/img/2024_portrait_commissioned_01.jpg" caption="肖像画（受注制作）" alt="肖像画（受注制作） / Commissioned portrait / 2024 / oil on canvas / F3号（27.3×22.0cm）" >}}
   {{< figure thumb="-thumb" src="/img/2024_entrance_to_the_garden.jpg" caption="裏庭への入り口" alt="裏庭への入り口 / Entrance to the garden / 2024 / oil on canvas / 8×8 in" >}}
   {{< figure thumb="-thumb" src="/img/2023_portrait_father.jpg" caption="Portrait of the Artist's Father" alt="Portrait of the Artist's Father / 2023 / oil on canvas / 6×6 in" >}}
   {{< figure thumb="-thumb" src="/img/2024_portrait_grandmother.jpg" caption="Grandmother" alt="Grandmother / 2024 / oil on canvas / 6×6 in" >}}

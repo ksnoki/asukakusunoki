@@ -5,7 +5,6 @@ menu: "main"
 ---
 
 
-
 {{< gallery caption-effect="fade" >}}
   {{< figure thumb="-thumb" src="/img/2024_portrait_commissioned.jpg" caption="肖像画（受注制作）" alt="肖像画（受注制作） / Commissioned portrait / 2024 / oil on canvas / F3号（27.3×22.0cm）" >}}
   {{< figure thumb="-thumb" src="/img/2024_portrait_grandmother.jpg" caption="Grandmother" alt="祖母 / Grandmother / 2024 / oil on canvas / 6×6 in" >}}

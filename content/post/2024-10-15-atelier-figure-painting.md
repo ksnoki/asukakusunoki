@@ -16,7 +16,7 @@ comment: true
 
 1年目（Drawing Year）では、人物を鉛筆で描くことを学びました。2年目からは油絵の具を使って人物画を描きます。
 
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://asukakusunoki.com/post/2023-03-27-atelier/" data-iframely-url="//iframely.net/RrgCt9L"></a></div></div><script async src="//iframely.net/embed.js"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://asukakusunoki.com/post/2023-03-27-atelier/" data-iframely-url="//iframely.net/jVIHvC1?card=small"></a></div></div><script async src="//iframely.net/embed.js"></script>
 
 {{< toc >}}
 

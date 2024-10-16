@@ -4,21 +4,13 @@
 作品やニューヨークのアトリエに留学中の記録などを更新していきます。
 <br>
 
-{{< gallery caption-effect="fade" >}}
-  {{< figure thumb="-thumb" src="/img/garden_202406_01.jpg" alt="2024 Solo Show Garden" >}}
-  {{< figure thumb="-thumb" src="/img/garden_202406_11.jpg" alt="2024 Solo Show Garden" >}}
-  {{< figure thumb="-thumb" src="/img/garden_202406_13.jpg" alt="2024 Solo Show Garden" >}}
-  {{< figure thumb="-thumb" src="/img/garden_202406_12.jpg" alt="2024 Solo Show Garden" >}}
-  {{< figure thumb="-thumb" src="/img/garden_202406_08.jpg" alt="2024 Solo Show Garden" >}}
-  {{< figure thumb="-thumb" src="/img/240601_3.jpg" alt="2024 Solo Show Garden" >}}
-{{< /gallery >}}
-
+{{< figure src="/img/garden_202406_12.jpg">}}
 <br>
 
-**Solo Exhibition "Garden"**
+### お知らせ
+{{< figure src="/img/works_2024_Life_02.jpg" caption="瑞雲舎から発売される くすのきしげのりによる短編集『すべての愛しきLifeへ』の表紙絵を担当いたしました。" >}} 　
+<br>
 
-- 【Date and time】
-2024.6.1 - 6.2 / 10:00 - 19:00
-
-- 【Location】
-Gowanus Gallery by Larisa (161 12th St, Brooklyn, NY 11215)
+### 注文制作
+{{< figure src="/img/works.jpg" caption="絵画の注文制作を承っています。" >}}
+<br>

@@ -6,8 +6,9 @@ menu: "main"
 
 
 {{< gallery caption-effect="fade" >}}
-{{< figure thumb="-thumb" src="/img/2024_portrait_father.png" caption="肖像" alt="肖像 / Portrait / 2024 / oil on canvas / 9.0×9.0cm" >}}
+  {{< figure thumb="-thumb" src="/img/2024_portrait_commissioned_02.jpg" caption="肖像（受注制作）" alt="肖像（受注制作） / Commissioned portrait / 2024 / oil on panel / 6×6 in" >}}
   {{< figure thumb="-thumb" src="/img/2024_portrait_commissioned_01.jpg" caption="肖像（受注制作）" alt="肖像（受注制作） / Commissioned portrait / 2024 / oil on canvas / F3号（27.3×22.0cm）" >}}
+  {{< figure thumb="-thumb" src="/img/2024_portrait_father.png" caption="肖像" alt="肖像 / Portrait / 2024 / oil on canvas / 9.0×9.0cm" >}}
   {{< figure thumb="-thumb" src="/img/2024_portrait_grandmother.jpg" caption="Grandmother" alt="祖母 / Grandmother / 2024 / oil on canvas / 6×6 in" >}}
   {{< figure thumb="-thumb" src="/img/2023_portrait_mother.jpg" caption="Portrait of the Artist's Mother" alt="画家の母の肖像 / Portrait of the Artist's Mother / 2023 / oil on canvas / 6×6 in" >}}
   {{< figure thumb="-thumb" src="/img/2023_portrait_father.jpg" caption="Portrait of the Artist's Father" alt="画家の父の肖像 / Portrait of the Artist's Father / 2023 / oil on canvas / 6×6 in" >}}

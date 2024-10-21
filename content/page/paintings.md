@@ -7,6 +7,8 @@ menu: "main"
 
 
 {{< gallery caption-effect="fade" >}}
+  {{< figure thumb="-thumb" src="/img/2024_familiar_scenery.jpg" caption="近所の風景" alt="近所の風景 / Familiar Scenery / 2024 / colour pencil on canvas / 5.0×10.2cm" >}}
+  {{< figure thumb="-thumb" src="/img/2024_ogura_toast.jpg" caption="小倉トースト" alt="小倉トースト / Ogura Toast / 2024 / oil pastel on paper / 9.0×12.8cm" >}}
   {{< figure thumb="-thumb" src="/img/2024_entrance_to_the_garden.jpg" caption="裏庭への入り口" alt="裏庭への入り口 / Entrance to the garden / 2024 / oil on canvas / 8×8 in" >}}
   {{< figure thumb="-thumb" src="/img/2024_dreamscape.jpg" caption="夢の風景" alt="夢の風景 / Dreamscape / 2024 / oil on canvas paper / 4×6 in / sold" >}}
   {{< figure thumb="-thumb" src="/img/2024_spring_garden.jpg" caption="春の庭" alt="春の庭 / Spring garden / 2024 / oil on canvas / 4×4 in" >}}

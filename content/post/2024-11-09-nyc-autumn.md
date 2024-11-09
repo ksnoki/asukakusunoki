@@ -145,9 +145,9 @@ Hank Willis Thomasによる[「Unity」](https://www.uapcompany.com/projects/uni
 {{< figure src="/img/nyc_autumn_2023_thanksgiving_02.jpg" caption="パンプキンパイとケーキも食べました。" alt="机の上に置かれたパンプキンパイとホールのチョコレートケーキ">}} 
 
 サンクスギビングデー（感謝祭）の起源は、アメリカ大陸にやってきたイギリス人入植者と先住民が集まって食事をした友好的な収穫感謝祭であるという侵略した側の視点でのストーリーが伝えられてきましたが、その土地にもとからいた人々にとっては虐殺され土地を奪われた歴史です。  
-歴史を知る必要性を感じ、ただ楽しむだけというわけにはいかないなと思いながら過ごしたサンクスギビングデーでした。
+歴史を学ぶ必要性を感じ、ただ楽しむだけというわけにはいかないなと思いながら過ごしたサンクスギビングデーでした。
 
-National Museum of the American IndianのWebサイト
+National Museum of the American IndianのWebサイトです。
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://americanindian.si.edu/nk360/informational/rethinking-thanksgiving" data-iframely-url="//iframely.net/z8p88HG"></a></div></div><script async src="//iframely.net/embed.js"></script>
 
 ## 6. クリスマスにむけて

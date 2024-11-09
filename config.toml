@@ -22,6 +22,7 @@ disqusShortname = "makotokusunoki-com"
   logo = "img/icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
+  timeZone = "Asia/Tokyo"
   commit = false
   rss = true
   comments = true

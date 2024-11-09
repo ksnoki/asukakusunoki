@@ -1,5 +1,5 @@
 ---
-title: "秋のニューヨークの写真"
+title: "秋のニューヨーク"
 subtitle: 
 date: 2024-11-09
 draft: false

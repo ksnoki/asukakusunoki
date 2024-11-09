@@ -12,7 +12,7 @@ bigimg: [{src: "/img/nyc_autumn_2021_brooklyn_09.jpg"}]
 comment: true
 ---
 
-留学中はニューヨークのブルックリンというところに住んでいたのですが、秋の風景がとても好きでした。住宅街の街路樹が色づき、いろいろな場所でハロウィンの飾りが見られたり、ホリデーシーズンに向けて準備をしていたりと、日本で自分の住んでいた地域とは異なる風景が見られて、秋はいろいろな場所を歩くのが楽しかったです。  
+留学中はニューヨークのブルックリンというところに住んでいたのですが、秋の風景がとても好きでした。街路樹が色づき、街中でハロウィンの飾りが見られたり、ホリデーシーズンに向けて準備をしていたりと、日本で自分の住んでいた地域とは異なる風景が見られて、秋はいろいろな場所を歩くのが楽しかったです。  
 
 住んでいたアパートの近所ではこんな風景が見られます。
 
@@ -34,7 +34,6 @@ comment: true
 
 住んでいたのは緑の多い比較的落ち着いた雰囲気の場所でしたが、歩いて行ける距離に画材屋やショッピングモールがあり、アトリエで授業を受けている以外の時間のほとんどをここで過ごしました。今回はそのエリアで撮影した写真を中心に、ブルックリンやマンハッタンの秋の風景をまとめてみました。
 
-
 {{< toc >}}
 
 ## 1. 秋のブルックリン
@@ -51,7 +50,9 @@ comment: true
 {{< figure src="/img/nyc_autumn_2021_brooklyn_10.jpg" caption="" alt="木々と落ち葉のある歩道。">}}   
 {{< figure src="/img/nyc_autumn_2021_brooklyn_11.jpg" caption="" alt="木々と落ち葉のある歩道。左側には入り口に階段が住宅が並んでいる">}}   
 {{< figure src="/img/nyc_autumn_2022_brooklyn_03.jpg" caption="落ち葉がやけに立体的に見える⁉と思ったら、落ち葉の影に見えたのは葉っぱから出た水分が流れた跡でした。" alt="公園のベンチに上がろうとするリス">}}  
-{{< figure src="/img/nyc_autumn_2022_brooklyn_05.jpg" caption="ブルックリン公共図書館の前。ポールにある旗は上からアメリカ国旗、ニューヨーク市旗、トランスジェンダーフラッグ。11月20日は「Trans Day of Remembrance（トランスジェンダー追悼の日）」という、トランスジェンダーを標的とした暴力によって命を落とした人々を追悼する日です。" alt="広場のような場所。右側には白い大きな建物があり、中央には柱に掲げられた3つの旗がある">}}  
+{{< figure src="/img/nyc_autumn_2022_brooklyn_05.jpg" caption="ブルックリン公共図書館の前。ポールにある旗は上からアメリカ国旗、ニューヨーク市旗、トランスジェンダーフラッグ。" alt="広場のような場所。右側には白い大きな建物があり、中央には柱に掲げられた3つの旗がある">}}
+この日に合わせて掲げられたのかは分からないのですが、11月20日は「Trans Day of Remembrance（トランスジェンダー追悼の日）」という、トランスジェンダーを標的とした暴力によって命を落とした人々を追悼する日です。  
+
 {{< figure src="/img/nyc_autumn_2022_brooklyn_06.jpg" caption="COVID-19のワクチン接種の会場を示すポスター。プログレス・プライドフラッグのカラーを用いたバージョンと、スペイン語のバージョンがあり、ニューヨークらしさを感じました。ニューヨークではプライドフラッグもスペイン語の表記も目にする機会が多かったです。2022年の写真。" alt="広場のような場所。右側には白い大きな建物があり、中央には柱に掲げられた3つの旗がある">}}  
 {{< figure src="/img/squirrel221009_03.jpg" caption="ハトの群れとリス。ニューヨークにはハトもリスも多いです。" alt="木に登ろうとするリスとハトの群れ">}}  
 {{< figure src="/img/nyc_autumn_2021_brooklyn_05.jpg" caption="木に登るリス。" alt="木に登るリス">}}  
@@ -78,8 +79,8 @@ comment: true
 
 <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 66.6102%; padding-top: 120px;"><a href="https://away.mta.info/articles/photos-subway-halloween-2022/" data-iframely-url="//iframely.net/DKtuNZy"></a></div></div><script async src="//iframely.net/embed.js"></script>
 
-
 ## 3. ハイラインを歩く
+
 2021年の10月に、マンハッタンのThe High Line（ハイライン）に行ってきました。ハイラインは廃線になった高架貨物鉄道を再利用して作られた公共公園・空中遊歩道です。
 
 <div class="iframely-embed, pb-2"><div class="iframely-responsive" style="padding-bottom: 31.25%; padding-top: 120px;"><a href="https://www.thehighline.org/" data-iframely-url="//iframely.net/DvkU3PG"></a></div></div><script async src="//iframely.net/embed.js"></script>  
@@ -107,8 +108,8 @@ comment: true
 留学してすぐに行った場所で、ニューヨークの都市の景観の一面に触れることのできた印象的な場所です。  
 [ボランティアによるガイド](https://www.thehighline.org/events/high-line-tour-from-freight-to-flowers/?utm_source=highline&utm_medium=website-visit&utm_content=tour&utm_campaign=tour)もあり、公園の歴史やデザイン、景観についての案内を受けることができます。
 
-
 ## 4. ブルックリン橋を歩く
+
 11月末はサンクスギビングの休暇でアトリエの授業が休みなので、留学初年の2021年11月23日にBrooklyn Bridge（ブルックリン橋）に行ってきました。ブルックリン橋はブルックリンとマンハッタンをつなぐ吊り橋で、約1.8㎞の道のりを30分ほどで歩いて渡ることができます。
 
 <div class="google_map">
@@ -130,6 +131,7 @@ Hank Willis Thomasによる[「Unity」](https://www.uapcompany.com/projects/uni
 留学中、この後もときどきアパートからブルックリン橋を通ってチャイナタウンまで歩いて行ったりしていました。
 
 ## 5. サンクスギビング
+
 アメリカでは毎年11月第4木曜日はThanksgiving Day（サンクスギビングデー）という祝日で、家族など親しい人と集まって過ごす日になっているようです。  
 
 当日にはマンハッタンで老舗百貨店のMacy’s（メイシーズ）が主催するパレードが行われ、これもサンクスギビングデーの恒例行事となっているということだったので、留学初年の2021年の11月25日に見に行ってきました。  
@@ -149,6 +151,7 @@ National Museum of the American IndianのWebサイト
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://americanindian.si.edu/nk360/informational/rethinking-thanksgiving" data-iframely-url="//iframely.net/z8p88HG"></a></div></div><script async src="//iframely.net/embed.js"></script>
 
 ## 6. クリスマスにむけて
+
 11月ごろから、街中ではクリスマスの飾りなどが見られるようになります。
 {{< figure src="/img/nyc_autumn_2021_holidayseason_03.jpg" caption="クリスマスツリー用のもみの木が売られています。すごくいい匂い！" alt="歩道の両側にもみの木がたくさん並べられている">}}  
 {{< figure src="/img/nyc_autumn_2022_holidayseason_01.jpg" caption="お店の中でも飾りが売られています。" alt="赤いリボンがついた鉢植えがたくさん並べられている。もみの木の葉っぱと松ぼっくりが入っている">}}  

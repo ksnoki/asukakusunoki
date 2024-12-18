@@ -85,7 +85,7 @@ Museum of Natural History（アメリカ自然史博物館）では折り紙の�
 今年は「Jumping for Joy」をテーマに飛び跳ねる生物の折り紙でツリーが飾られているようです。
 <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.5%; padding-top: 120px;"><a href="https://www.amnh.org/exhibitions/origami-holiday-tree" data-iframely-url="//iframely.net/dK4pVqH"></a></div></div><script async src="//iframely.net/embed.js"></script>
 <br>
-2024年の1月に私が行ったときは「Proboscideans on Parade」（長鼻類のパレード）がテーマで、そのときの博物館の展示「象の秘密の世界」にインスピレーションを得たツリーになっていました。  
+2024年の1月に私が行ったときは「Proboscideans on Parade（長鼻類のパレード）」がテーマで、そのときの博物館の展示「象の秘密の世界」にインスピレーションを得たツリーになっていました。  
 
 {{< figure src="/img/nyc_winter_2023_christmas_museum_01.jpg" caption="4メートルほどの高さのツリーが数えきれないほどの数の折り紙で飾られています。" alt="天井の高くまである大きなツリー。ツリーの全体が動物の形の色とりどりの折り紙で覆われていて、てっぺんには折り紙の象がいる">}}  
 {{< figure src="/img/nyc_winter_2023_christmas_museum_03.jpg" caption="ツリーに飾られている折り紙の作品は、毎年OrigamiUSA とボランティアによって作成されているそうです。 " alt="ツリーの部分を拡大した写真。折り紙の象が列になっていて、ライオンなど他の動物もいる">}}  

@@ -6,9 +6,9 @@ draft: false
 toc: true
 categories: [""]
 tags: ["留学","ニューヨーク",]
-image: /img/nyc_winter_2023_christmas_01.jpg
-eyecatch: https://asukakusunoki.com/img/nyc_winter_2023_christmas_01.jpg
-bigimg: [{src: "/img/nyc_winter_2023_christmas_01.jpg"}]
+image: /img/nyc_winter_2022_snow_12.jpg
+eyecatch: https://asukakusunoki.com/img/nyc_winter_2022_snow_12.jpg
+bigimg: [{src: "/img/nyc_winter_2022_snow_12.jpg"}]
 comment: true
 ---
 

@@ -4,7 +4,7 @@
 作品やニューヨークのアトリエに留学中の記録などを更新していきます。
 <br>
 
-{{< figure src="/img/garden_202406_12.jpg">}}
+{{< figure src="/img/2024_christmas_still-life.jpg">}}
 <br>
 
 ### お知らせ

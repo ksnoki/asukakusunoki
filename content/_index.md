@@ -4,7 +4,7 @@
 作品やニューヨークのアトリエに留学中の記録などを更新していきます。
 <br>
 
-{{< figure src="/img/2024_christmas_still-life.jpg">}}
+{{< figure src="/img/2024_oranges.jpg" alt="みかん / Oranges / 2024 / oil on canvas / 6.0×14.0cm" >}}
 <br>
 
 ### お知らせ

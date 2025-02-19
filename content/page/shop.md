@@ -1,11 +1,12 @@
 ---
 title: Shop
-subtitle: 絵画の販売・オーダーメイド
+subtitle: 絵画の販売・オーダーメイド・グッズ販売
 comments: false
 ---
 
 {{< figure src="/img/garden_202406_12.jpg">}}
 
+{{< toc >}}
 
 ## 受注制作
 
@@ -51,4 +52,10 @@ Approximate prices are in the table below.　
 | 4号（22.0×33.3cm） | ￥90,000 |
 | 6号（31.8×40.9cm） | ￥110,000 |
 
-※送料・税込
+※送料・税込  
+
+## グッズ販売
+[suzuri](https://suzuri.jp/AsukaKusunoki/)にて、Tシャツ、トートバッグ、マグカップなどのオリジナルグッズを販売しています。  
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.5%; padding-top: 120px;"><a href="https://suzuri.jp/AsukaKusunoki" data-iframely-url="//iframely.net/yksYVj5"></a></div></div><script async src="//iframely.net/embed.js"></script>  
+{{< figure src="/img/suzuri_01.jpg">}}
+{{< figure src="/img/suzuri_02.jpg">}}

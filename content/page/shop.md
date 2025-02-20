@@ -57,5 +57,5 @@ Approximate prices are in the table below.　
 ## グッズ販売
 [suzuri](https://suzuri.jp/AsukaKusunoki/)にて、Tシャツ、トートバッグ、マグカップなどのオリジナルグッズを販売しています。  
 <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.5%; padding-top: 120px;"><a href="https://suzuri.jp/AsukaKusunoki" data-iframely-url="//iframely.net/yksYVj5"></a></div></div><script async src="//iframely.net/embed.js"></script>  
-{{< figure src="/img/suzuri_01.jpg">}}
-{{< figure src="/img/suzuri_02.jpg">}}
+{{< figure src="/img/shop_suzuri_01.jpg">}}
+{{< figure src="/img/shop_suzuri_02.jpg">}}

@@ -3,10 +3,10 @@ title: Profile
 subtitle: 楠 明寿香 | Asuka (Makoto) Kusunoki
 comments: false
 ---
-画家・イラストレーター  
+徳島在住の画家です。  
 心に浮かんだ風景や徳島の風景、肖像画などを主に油彩で描いています。  
 
-Painter/illustrator based in Tokushima, Japan, who paints landscapes that come to mind, landscapes in hometown, portraits, etc.  
+Painter based in Tokushima, Japan, who paints landscapes that come to mind, landscapes in hometown, portraits, etc.  
  
 ## 略歴
 - 1997　徳島県鳴門市生まれ  

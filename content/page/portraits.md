@@ -6,6 +6,7 @@ menu: "main"
 
 
 {{< gallery caption-effect="fade" >}}
+  {{< figure thumb="-thumb" src="/img/2025_portrait_commissioned_01.jpg" caption="肖像（受注制作）" alt="肖像（受注制作） / Commissioned portrait / 2025 / oil on canvas / F3号（27.3×22.0cm）" >}}  
   {{< figure thumb="-thumb" src="/img/2024_portrait_commissioned_02.jpg" caption="肖像（受注制作）" alt="肖像（受注制作） / Commissioned portrait / 2024 / oil on panel / 6×6 in" >}}
   {{< figure thumb="-thumb" src="/img/2024_portrait_commissioned_01.jpg" caption="肖像（受注制作）" alt="肖像（受注制作） / Commissioned portrait / 2024 / oil on canvas / F3号（27.3×22.0cm）" >}}
   {{< figure thumb="-thumb" src="/img/2024_portrait_father.png" caption="肖像" alt="肖像 / Portrait / 2024 / oil on canvas / 9.0×9.0cm" >}}

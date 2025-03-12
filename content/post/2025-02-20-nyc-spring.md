@@ -1,7 +1,7 @@
 ---
 title: "春のニューヨーク"
 subtitle: 
-date: 2025-02-14T20:52:46+09:00
+date: 2025-02-14
 draft: true
 toc: true
 categories: [""]

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ニューヨーク on Asuka Kusunoki</title>
-    <link>http://localhost:1313/tags/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF/</link>
+    <link>https://asukakusunoki.com/tags/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF/</link>
     <description>Recent content in ニューヨーク on Asuka Kusunoki</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 30 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://asukakusunoki.com/tags/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>春～初夏のニューヨーク</title>
-      <link>http://localhost:1313/post/2025-03-30-nyc-spring/</link>
+      <link>https://asukakusunoki.com/post/2025-03-30-nyc-spring/</link>
       <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2025-03-30-nyc-spring/</guid>
+      <guid>https://asukakusunoki.com/post/2025-03-30-nyc-spring/</guid>
       <description>前回はニューヨークに留学中していた3年間の冬ごろに撮影した写真をまとめました。 寒い寒い冬が終わって春と呼べる季節になってもニューヨークはまだ寒く、「日本でこの時期ってこんな寒かったっけ？このままずっと寒かったらどうしよう……」と不安になりました。 今回は留学中の3、4、5、6月に撮影した写真とともに、</description>
     </item>
     <item>
       <title>冬のニューヨーク</title>
-      <link>http://localhost:1313/post/2024-12-18-nyc-winter/</link>
+      <link>https://asukakusunoki.com/post/2024-12-18-nyc-winter/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2024-12-18-nyc-winter/</guid>
+      <guid>https://asukakusunoki.com/post/2024-12-18-nyc-winter/</guid>
       <description>前回はニューヨークに留学中していた3年間の秋ごろに撮影した写真をまとめました。 11月ごろから街中ではクリスマスにむけた飾り付けが見られたり、12月になると雪景色が見られたりと、さまざまな冬の風景を楽しむことができます。今回は自分の住んでいたブルックリンやマンハッタンで11月末～2月ごろに撮影した冬の</description>
     </item>
     <item>
       <title>秋のニューヨーク</title>
-      <link>http://localhost:1313/post/2024-11-09-nyc-autumn/</link>
+      <link>https://asukakusunoki.com/post/2024-11-09-nyc-autumn/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2024-11-09-nyc-autumn/</guid>
+      <guid>https://asukakusunoki.com/post/2024-11-09-nyc-autumn/</guid>
       <description>留学中はニューヨークのブルックリンというところに住んでいたのですが、秋の風景がとても好きでした。街路樹が色づき、街中でハロウィンの飾りが見られたり、ホリデーシーズンに向けて準備をしていたりと、日本で自分の住んでいた地域とは異なる風景が見られて、秋はいろいろな場所を歩くのが楽しかったです。 住んでいたア</description>
     </item>
     <item>
       <title>リスの写真</title>
-      <link>http://localhost:1313/post/2023-04-17-squirrel/</link>
+      <link>https://asukakusunoki.com/post/2023-04-17-squirrel/</link>
       <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2023-04-17-squirrel/</guid>
+      <guid>https://asukakusunoki.com/post/2023-04-17-squirrel/</guid>
       <description>2021年に初めてニューヨークに来たとき、アパートの周辺や公園にたくさんリスがいるのに驚きました。ニューヨーク市のwebサイトによると、ニューヨーク市のリスの大部分はトウブハイイロリス(Eastern gray squirrel)という種類のようです。怪我をしたリスを見かけたら、リスをその場に置いておき、距離</description>
     </item>
   </channel>

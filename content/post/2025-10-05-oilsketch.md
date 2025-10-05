@@ -1,5 +1,5 @@
 ---
-title: "Oil Sketch(油彩スケッチ)"
+title: "野菜や果物を油彩でスケッチする"
 subtitle: 
 date: 2025-10-05
 draft: false
@@ -12,7 +12,7 @@ bigimg: [{src: "/img/oilsketch_eggplants_02.jpg"}]
 comment: true
 ---
 
-先日、家で採れたなすびを油彩でスケッチしました。何日もかけて何層にも絵の具を重ねる描き方ではなく、一日のみ、数時間で描くスケッチです。  
+先日、家で採れたなすびを油彩でスケッチ(Oil Sketch)しました。何日もかけて何層にも絵の具を重ねる描き方ではなく、一日のみ、数時間で描くスケッチです。  
 
 {{< figure src="/img/oilsketch_eggplants_03.jpg" caption="奥に見えるのが実物で、それらを見ながら小さいキャンバスに描きました。" >}}  
 {{< figure src="/img/oilsketch_eggplants_01.jpg" caption="まずは揮発性油で薄めたこげ茶(バーントアンバー)で地塗り・大まかな下描きをします。" >}}  

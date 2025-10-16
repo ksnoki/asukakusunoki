@@ -62,6 +62,7 @@ unsafe= true
   name = "Asuka Kusunoki"
   instagram = "kusunokiask"
   facebook = "kusunokiask"
+  mastodon = "fedibird.com/@kusunokiask"
 
 [[menu.main]]
     name = "Blog"

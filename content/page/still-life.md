@@ -7,6 +7,7 @@ menu: "main"
 
 
 {{< gallery caption-effect="fade" >}}
+  {{< figure thumb="-thumb" src="/img/2025_haniwa_horse_01.jpg" caption="馬の埴輪" alt="馬の埴輪 / Haniwa Horse / 2025 / oil on canvas" >}}
   {{< figure thumb="-thumb" src="/img/2024_oranges.jpg" caption="みかん" alt="みかん / Oranges / 2024 / oil on canvas / 6.0×14.0cm" >}}
   {{< figure thumb="-thumb" src="/img/2024_christmas_still-life.jpg" caption="クリスマスオーナメントの油彩スケッチ" alt="クリスマスオーナメントの油彩スケッチ / Oil sketch of Christmas ornaments / 2024 / oil on canvas / 5.8×6.9cm" >}}
   {{< figure thumb="-thumb" src="/img/2023_what_used_to_be_there.jpg" caption="かつてそこにあったもの（親知らず）" alt="かつてそこにあったもの（親知らず） / What used to be there (wisdom tooth) / 2023 / oil on canvas / 5×5 in" >}}

@@ -1,12 +1,7 @@
 ## About this site
 
 楠 明寿香（Asuka Kusunoki）です。  
-作品やニューヨークのアトリエに留学中の記録などを更新していきます。
 <br>
-
-{{< figure src="/img/2025_haniwa_horse_02.jpg" alt="馬の埴輪" caption="今年もよろしくお願いします。" >}}
-<br>
-
 {{< figure src="/img/2024_stairs_that_appear_only_once.jpg" alt="一度だけ現れる階段 / Stairs that appear only once / 2024 / 油彩・パネル / 6×6 in" >}}
 <br>
 

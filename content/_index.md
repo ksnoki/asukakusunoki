@@ -6,7 +6,7 @@
 <br>
 
 ### お知らせ
-{{< figure src="/img/works_2024_Life_02.jpg" caption="瑞雲舎から発売される くすのきしげのりによる短編集『すべての愛しきLifeへ』の表紙絵を担当いたしました。" >}} 　
+{{< figure src="/img/DM_202608_solo.png" caption="8月9日(日)～30日(日)、徳島市内のギャラリー喫茶 GRACEにて個展を開催します。" >}} 　
 <br>
 
 ### 注文制作

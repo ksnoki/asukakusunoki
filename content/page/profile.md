@@ -1,6 +1,6 @@
 ---
 title: Profile
-subtitle: 楠 明寿香 | Asuka (Makoto) Kusunoki
+subtitle: 楠 明寿香 | Asuka Kusunoki
 comments: false
 ---
 徳島在住の画家です。  

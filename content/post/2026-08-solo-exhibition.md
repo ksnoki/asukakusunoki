@@ -5,7 +5,7 @@ date: 2026-07-01
 draft: false
 categories: [""]
 tags: ["個展","展示"]
-eyecatch: https://asukakusunoki.com/img/DM_202608_solo.png
+eyecatch: https://asukakusunoki.com/img/DM_202608_solo_ogp.png
 comment: true
 ---
 

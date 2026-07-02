@@ -1,10 +1,11 @@
 ---
 title: "楠 明寿香 作品展 ―記憶の風景―"
-subtitle: "2026年8月9日(日) - 30日(日) ギャラリー喫茶GRACE"
+subtitle: "2026年8月9日(日) - 30日(日) ギャラリー喫茶 GRACE"
 date: 2026-07-01
 draft: false
 categories: [""]
 tags: ["個展","展示"]
+image: /img/DM_202608_solo_ogp.png
 eyecatch: https://asukakusunoki.com/img/DM_202608_solo_ogp.png
 comment: true
 ---
